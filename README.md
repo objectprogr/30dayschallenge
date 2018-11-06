@@ -34,3 +34,4 @@ Trouble with my image *(for more informations read above or issue)*:
 - Fix code and commit changes,
 - Push changes,
 - Open Pull Request.
+Add
