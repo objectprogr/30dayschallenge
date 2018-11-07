@@ -23,7 +23,7 @@ Trouble with my image *(for more informations read above or issue)*:
 
 ![Image trouble](/assets/troubleWithImage.PNG)
 
-(##First-contribution-and-solved-trouble-with-display-image)
+## First contribution and solved trouble with display image
 
 Thanks for **[youngestdj](https://github.com/youngestdj)** for solved my problem with image :)
 
