@@ -5,7 +5,7 @@ I write simple function, which after click button `Display image` - load simple 
 ~~I must only fix his position, because is not responsive :(~~
 ~~If you want help me with this, please fork repo and open PR with your solution :)~~
 
-*[Read below for more inromations](##first-contribution-and-solved-trouble-with-display-image)*
+*[Read below for more inromations](https://github.com/objectprogr/30dayschallenge/tree/day9_10_simpleResponsiveWeb#first-contribution-and-solved-trouble-with-display-image)*
 
 ### Few screenshots
 Full size:
