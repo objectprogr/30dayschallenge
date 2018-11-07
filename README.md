@@ -4,7 +4,8 @@ In my 30 days challenge, I must write simple responsive website with simple inte
 I write simple function, which after click button `Display image` - load simple image on ads section.
 ~~I must only fix his position, because is not responsive :(~~
 ~~If you want help me with this, please fork repo and open PR with your solution :)~~
-*[Read below for more inromations](##First-contribution-and-solved-trouble-with-display-image)*
+
+*[Read below for more inromations](##first-contribution-and-solved-trouble-with-display-image)*
 
 ### Few screenshots
 Full size:
