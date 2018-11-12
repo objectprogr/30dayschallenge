@@ -91,7 +91,7 @@ div {
   grid-row: 1 / 2;
 }
 
-.art > p {
+.art p {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
