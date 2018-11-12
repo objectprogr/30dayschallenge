@@ -1,0 +1,43 @@
+html,
+body {
+  background-color: #ffeead;
+  margin: 10px;
+}
+
+body {
+  display: grid;
+  grid-gap: 3px;
+  grid-template-areas:
+    "header header header"
+    "nav article ads"
+    "footer footer footer";
+  grid-template-rows: 60px 1fr 60px;
+  grid-template-columns: 20% 1fr 15%;
+  grid-gap: 10px;
+  height: 100vh;
+  margin: 0;
+}
+footer,
+article,
+nav,
+div {
+  padding: 20px;
+  background: #96ceb4;
+  border-radius: 10px;
+}
+
+#pageHeader {
+  grid-area: header;
+}
+#pageFooter {
+  grid-area: footer;
+}
+#mainArticle {
+  grid-area: article;
+}
+#mainNav {
+  grid-area: nav;
+}
+#siteAds {
+  grid-area: ads;
+}
